@@ -30,4 +30,6 @@ var Server = module.exports = function() {
     }
 
     app.use(logger.errorLogger());
+
+    return app;
 };
