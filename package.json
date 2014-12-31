@@ -17,6 +17,7 @@
   "dependencies": {
     "bunyan": "^1.2.3",
     "compression": "^1.2.1",
+    "dotenv": "^0.4.0",
     "express": "^4.10.4",
     "express-bunyan-logger": "^1.1.0",
     "helmet": "^0.5.2",

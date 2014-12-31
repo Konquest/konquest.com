@@ -1,7 +1,7 @@
 /**
  * Initialize configurations
  */
-var package = require('./package.json');
+// var package = require('./package.json');
 var dotenv = require('dotenv');
 dotenv.load();  // Initialize environment config
 
